@@ -1,4 +1,4 @@
-# Day 1: JSX Portfolio
+# Project 1: JSX Portfolio
 
 ## About
 This is my first React portfolio built while learning JSX and components.
